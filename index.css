@@ -37,10 +37,10 @@ main {
 	padding: 1rem;
 	border-radius: 20px;
 	min-width: 300px;
-	cursor: pointer;
 }
 
 .card__img {
+	cursor: pointer;
 	position: relative;
 }
 
